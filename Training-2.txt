@@ -4,3 +4,4 @@ Training 2
 -saya akan membuatprojek besar
 -saya ingin belajar bahasa phyton
 -saya ingin belajar bahasa C, C+, dan C++
+-saya ingin belajar Quartus
