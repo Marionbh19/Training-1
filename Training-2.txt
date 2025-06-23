@@ -6,4 +6,5 @@ Training 2
 -saya ingin belajar bahasa C, C+, dan C++
 -saya ingin belajar Quartus
 -saya akan membuat rangkaian RLC
+-saya ingin belajar javascript
 -saya ingin belajar SQL
