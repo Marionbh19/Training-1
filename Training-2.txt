@@ -1,4 +1,7 @@
-Training 1
+Training 2
 - Ini adalah percobaan saya yang pertama kali yang saya lakukan
 -kedepannya saya akan lebih konsisten dalam belajar dan memahami github dan git
 -saya akan membuatprojek besar
+-saya ingin belajar bahasa phyton
+-saya ingin belajar bahasa C, C+, dan C++
+-saya ingin belajar Quartus
