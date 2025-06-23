@@ -1,0 +1,3 @@
+Training 1
+- Ini adalah percobaan saya yang pertama kali yang saya lakukan
+-kedepannya saya akan lebih konsisten dalam belajar dan memahami github dan git
