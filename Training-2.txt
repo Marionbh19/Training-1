@@ -5,3 +5,4 @@ Training 2
 -saya ingin belajar bahasa phyton
 -saya ingin belajar bahasa C, C+, dan C++
 -saya ingin belajar Quartus
+-saya akan membuat rangkaian RLC
